@@ -44,3 +44,7 @@ Todo List
 3. Fix CSS flexbox
 4. Correct failed unit testing
 5. Add Cucumber Scenarios
+
+## Getting Started
+Clone address
+https://github.com/220314-jwa/p1-funkyprimate.git
